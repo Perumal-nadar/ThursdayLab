@@ -32,8 +32,8 @@ public class Question_no_4 {
 		
 		System.out.println(x += 4);// x += y : x = x + y
 		System.out.println(x -= 6);// x -= y : x = x - y
-		System.out.println(x *= 8);// x -= y : x = x * y
-		System.out.println(x /= 10);// x -= y : x = x / y
+		System.out.println(x *= 8);// x *= y : x = x * y
+		System.out.println(x /= 10);// x /= y : x = x / y
 	}
 // Logical operators
 	public static void Logical_demo() {
